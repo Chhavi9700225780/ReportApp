@@ -35,7 +35,7 @@ https://ecoalert-cd.netlify.app/
 
 **Server:** Node, Express, MongoDB
 
-**Deployment:** Vercel and Render
+**Deployment:** Netlify and Render
 
 ## ScreenShot
 ![image](https://github.com/user-attachments/assets/292c8ca7-975c-478c-87e7-c13d64240b8c)
@@ -46,8 +46,8 @@ To run EcoWatch locally, follow these steps:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ecowatch.git
-   cd ecowatch
+   git clone https://github.com/yourusername/reportapp.git
+   cd reportapp
    
 2. **Install the required dependencies:**
     ```bash
@@ -58,7 +58,7 @@ To run EcoWatch locally, follow these steps:
 
 4. **Start the development server:**
    ```bash
-   npm start
+   node start
 
    
  5. Open your browser and go to http://localhost:3000 to view the application.
