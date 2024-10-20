@@ -58,7 +58,7 @@ To run EcoWatch locally, follow these steps:
 
 4. **Start the development server:**
    ```bash
-   node start
+   node index.js
 
    
  5. Open your browser and go to http://localhost:3000 to view the application.
